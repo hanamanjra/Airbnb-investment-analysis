@@ -5,9 +5,11 @@ This project focuses on cleaning, exploring, and analyzing property-level listin
 
 Project Structure
 Notebook: 
+
 General market analysis.ipynb
+
 Property level analysis.ipynb
-Text EDA.ipynb (data cleaning for further sentiment analysis) 
+
 Dataset: listing.csv
 
 Features & Workflow
